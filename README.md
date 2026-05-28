@@ -45,6 +45,7 @@ Complete beginner-friendly guide to install Wazuh SIEM server on Ubuntu and conf
 ## Part 1 — Wazuh Server Setup (Ubuntu)
 
 ### What Is Wazuh?
+![Wazuh Architecture](./Images/wazuh-architecture.png)
 
 Wazuh is a free, open-source security platform that combines:
 
@@ -372,6 +373,7 @@ Open a browser and go to:
 ```
 https://<your-server-ip>:443
 ```
+![Wazuh Dashboard](./Images/wazuh-dashboard.png)
 
 > The dashboard uses a self-signed SSL certificate. Your browser will show a security warning — click **Advanced → Proceed** to continue. This is expected on first visit.
 
