@@ -239,7 +239,7 @@ AWS Console → EC2 → Security Groups → Your Instance's Security Group
 <details>
 <summary>Production UFW configuration (click to expand)</summary>
 
-```bash
+<pre><code>
 sudo ufw allow 22/tcp
 sudo ufw allow 443/tcp
 sudo ufw allow 1514/tcp
@@ -247,7 +247,7 @@ sudo ufw allow 1514/udp
 sudo ufw allow 1515/tcp
 sudo ufw allow 55000/tcp
 sudo ufw reload
-```
+</code></pre>
 
 </details>
 
