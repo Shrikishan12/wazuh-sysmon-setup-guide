@@ -135,7 +135,6 @@ Update your system to get the latest security patches and ensure package depende
 
 ```bash
 sudo apt update && sudo apt upgrade -y
-sudo apt install -y curl gnupg apt-transport-https lsb-release
 ```
 
 Check if port 443 is already in use:
