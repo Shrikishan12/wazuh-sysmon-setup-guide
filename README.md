@@ -751,5 +751,5 @@ Navigate to: **Agents → [Your Windows Agent] → Threat Hunting**
 ---
 
 ## License
-
-This guide is published for educational purposes. Feel free to share, adapt, and contribute.
+This project is licensed under the [MIT License](LICENSE).  
+© 2026 Shrikishan — Free to use, share, and adapt with credit.
