@@ -281,7 +281,7 @@ Expected output:
 -rw-r--r-- 1 root root 195K Apr 18 22:45 wazuh-install.sh
 ```
 
-> If you get a 404 error, the version in the URL may have changed. Check [packages.wazuh.com](https://packages.wazuh.com) for the latest version (e.g. `4.14`, `4.15`) and update the URL accordingly.
+> If you get a 404 error, the version in the URL may have changed. Check [packages.wazuh.com](https://documentation.wazuh.com/current/installation-guide/wazuh-server/installation-assistant.html) for the latest version (e.g. `4.14`, `4.15`) and update the URL accordingly.
 
 ---
 
