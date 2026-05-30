@@ -1,5 +1,3 @@
-# Wazuh + Sysmon Setup Guide — Step by Step (Ubuntu)
-
 Complete beginner-friendly guide to install Wazuh SIEM server on Ubuntu and configure Sysmon on Windows agents for SOC-grade security monitoring.
 
 > **Who is this for?** Beginners and IT administrators setting up Wazuh for the first time on a physical, virtual, or cloud Ubuntu server.
